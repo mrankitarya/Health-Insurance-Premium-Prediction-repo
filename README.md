@@ -36,6 +36,6 @@ The dataset used in this project is `insurance.csv`, which includes the followin
 ## Streamlit Interface
 Here is a snapshot of the Streamlit interface:
 
-![Streamlit Interface]("C:\Users\GABRU\Pictures\Screenshots\Screenshot 2025-01-22 123714.png")
+![Streamlit Interface](https://github.com/mrankitarya/Health-Insurance-Premium-Prediction-repo/blob/d2eecc71187bc1a9dbc39053bccb9f0034d73f1b/Screenshot%202025-01-22%20123714.png)
 
 
