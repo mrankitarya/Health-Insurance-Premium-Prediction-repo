@@ -36,6 +36,6 @@ The dataset used in this project is `insurance.csv`, which includes the followin
 ## Streamlit Interface
 Here is a snapshot of the Streamlit interface:
 
-![Streamlit Interface](C:\Users\GABRU\Pictures\Screenshots\Screenshot 2025-01-22 123714.png)
+![Streamlit Interface]("C:\Users\GABRU\Pictures\Screenshots\Screenshot 2025-01-22 123714.png")
 
 
